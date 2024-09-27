@@ -1,0 +1,9 @@
+slurm/
+models/
+.vscode/
+src/__pycache__/*
+src/wandb
+src/*.png
+results/
+files/
+figures/
